@@ -1,0 +1,6 @@
+C:\Users\LiamU\Desktop\triple-t-h\OpenSignal\OpenSignal\obj\Debug\OpenSignal.csproj.CoreCompileInputs.cache
+C:\Users\LiamU\Desktop\triple-t-h\OpenSignal\OpenSignal\bin\Debug\OpenSignal.dll
+C:\Users\LiamU\Desktop\triple-t-h\OpenSignal\OpenSignal\bin\Debug\OpenSignal.pdb
+C:\Users\LiamU\Desktop\triple-t-h\OpenSignal\OpenSignal\obj\Debug\OpenSignal.dll
+C:\Users\LiamU\Desktop\triple-t-h\OpenSignal\OpenSignal\obj\Debug\OpenSignal.pdb
+C:\Users\LiamU\Desktop\triple-t-h\OpenSignal\OpenSignal\obj\Debug\OpenSignal.csprojAssemblyReference.cache
