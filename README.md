@@ -1,6 +1,6 @@
-# OpenSignal Library
+# OpenSignal is a C# Signal Library
 
-OpenSignal Library is inspired by [Robert Penner's Signals for ActionScript3](https://github.com/robertpenner/as3-signals/ "as3 signals").
+OpenSignal is inspired by [Robert Penner's Signals for ActionScript3](https://github.com/robertpenner/as3-signals/ "as3 signals").
 ## Simple Example
 ```csharp
 Signal<Action<string, int>> s1 = new Signal<Action<string, int>>();
